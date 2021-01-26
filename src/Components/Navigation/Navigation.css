@@ -1,0 +1,64 @@
+.logo{
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 4px;
+    cursor: pointer;
+}
+
+.logoTilt{
+    height: 80px;
+    width: 80px; 
+}
+
+.nav-item,
+.nav-item a{
+     display: inline-block;
+    color: rgb(117, 117, 117);
+    text-decoration: none;
+    padding: 4px;
+    margin: 0 5px 0 0;
+    font-weight: 500;
+}
+
+.nav-item:hover,
+.nav-item a:hover
+{
+    color:  chocolate;
+    transition: color 0.2s linear;
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 600px) {
+	nav{
+		font-size: 90%;
+    }
+    .logoTilt{
+        height: 40px;
+        width: 40px;
+    }
+}
+
+.sticky{
+    display: inline-flex;
+    position: fixed;
+    top:0;
+    left:0;
+    background: transparent;
+    width: 100%;
+    z-index: 40;
+}
+
+.stickyW{
+    display: inline-flex;
+    position: fixed;
+    top:0;
+    left:0;
+    background: white;
+    width: 100%;
+    z-index: 40;
+}
+
+.active{
+    transition: border-bottom 0.2s linear;
+    border-bottom: 2px solid hsl(25, 75%, 47%);
+}
