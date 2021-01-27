@@ -8,7 +8,7 @@ const Contact = () =>{
                 <h1 id = "titleC"> Contact</h1>
                 <div id = "wrapperC">
                     <div id = "concl">
-                        <p>Hope I convinced you that I deserve an interview. Maybe now I'm not the best, but if you hire me I'll be one of the fastest evolving employee. </p>
+                        <p>Hope I convinced you that I deserve a interview. Maybe now I'm not the best, but if you hire me I'll be one of the fastest evolving employee. </p>
                     </div>
                     <div id = "adrs2"> 
                         <p>Phone : 0752756772</p>

@@ -55,10 +55,11 @@ class App extends Component {
   render(){
     return (
       <div className="App">
+        
         <Navigation className = {this.state}/> 
         <Header props = {this.state}/>
-        <About/>
         <CS languages = {csCardsText}/>
+        <About/>
         <Contact/>
         
       </div>

@@ -28,16 +28,6 @@ const Navigation = ({className})  =>{
 					<Link
 						className="nav-item"
 						activeClass="active"
-						to="about"
-						spy={true}
-						smooth={true}
-						offset={-102}
-						duration={500}>
-						About me
-					</Link>
-					<Link
-						className="nav-item"
-						activeClass="active"
 						to="CS"
 						spy={true}
 						smooth={true}
@@ -45,11 +35,23 @@ const Navigation = ({className})  =>{
 						duration={500}>
 						Computer Science
 					</Link>
+
+					<Link
+						className="nav-item"
+						activeClass="active"
+						to="about"
+						spy={true}
+						smooth={true}
+						offset={-102}
+						duration={500}>
+						About me
+					</Link>
+
 					<li className="nav-item">
-					  <a  href="https://drive.google.com/file/d/1HsEnblqH52pkMVVBqnRoXJjdbIrcanX_/view?usp=sharing" target="_blank" rel='noreferrer'>CV</a>
+					  <a  href="https://drive.google.com/file/d/1V0z_F8Pli6t5WYDD3cJ0a8a3iza9DdOe/view?usp=sharing" target="_blank" rel='noreferrer'>CV</a>
 				  	</li>
 					<li className="nav-item">
-					  <a  href="https://drive.google.com/file/d/12XA7TakeQOiIFRoMKHsj0FGNlntxnEpM/view?usp=sharing" target="_blank" rel='noreferrer'>Resume</a>
+					  <a  href="https://drive.google.com/file/d/13sKVnMDsjEB1_-dL7owCtVZ0d65n5bu2/view?usp=sharing" target="_blank" rel='noreferrer'>Resume</a>
 				  	</li>
 				  	<Link
 						className="nav-item"
