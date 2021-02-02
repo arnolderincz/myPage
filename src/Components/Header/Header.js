@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css';
 import Particles from 'react-particles-js';
-import background from '../../Images/pageCoverWhite.jpg';
+import background from '../../Images/pageCover2.jpg';
 
 
 const Header = ({props}) => {
