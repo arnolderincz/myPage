@@ -1,7 +1,7 @@
 import React from 'react';
 import './Header.css';
 import Particles from 'react-particles-js';
-import background from '../../Images/pageCover2.jpg';
+import background from '../../Images/pageCover.jpg';
 
 
 const Header = ({props}) => {
@@ -44,7 +44,7 @@ const Header = ({props}) => {
 
   return(
       <div className="container" id='header'>
-        <div id = 'coverBackgroud'> 
+        <div id = 'coverBackground'> 
           <img src = {background} alt = 'cover'/>
           <div className="part">
             <Particles className="particles"  params={particle_params} />
