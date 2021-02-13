@@ -15,6 +15,9 @@
     min-width: 18em;
 }
 
+#title{
+    margin-top: 2em;
+}
 
 #title p {
     position: absolute;
