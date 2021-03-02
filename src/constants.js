@@ -8,8 +8,12 @@ export const csCardsText  = [
         "text" : "I currently study Java at UBB. So far I know: \n - creating and using objects \n - using streams and higher order functions like map, filter, reduce \n - using AWT and Swing libraries \n - creating small java apps (for example I created a simple music player) \n- using action / item listeners \n - multithreading"
     },
     {
+        "title" : "Python",
+        "text": "I started to learn Python because I need it in some classes at UBB but... they don't teach us Python explicitly. As I dive deeper into it I love it more and more. "
+    },
+    {
         "title" : "JavaScript and Web Development",
-        "text" : "I started learning Javascript on my own from udemy courses after first year at UBB. By now I know: \n - using higher order functions like map, filter, reduce \n - the most important concepts like hoisting, closures, currying, polymorphism \n - make the difference between var, let, const \n - using React JS framework (I built this presentation website in React) \n - how to use Node JS but just as a beginner"
+        "text" : "I started learning Javascript on my own from udemy courses and recently we started study it in web development class also . By now I know: \n - using higher order functions like map, filter, reduce \n - the most important concepts like hoisting, closures, currying, polymorphism \n - make the difference between var, let, const \n - using React JS framework (I built this presentation website in React) \n - how to use Node JS but just as a beginner"
     },
     {
         "title" : "Database Management",
