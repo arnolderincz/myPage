@@ -9,7 +9,7 @@ export const csCardsText  = [
     },
     {
         "title" : "Python",
-        "text": "I started to learn Python because I need it in some classes at UBB but... they don't teach us Python explicitly. As I dive deeper into it I love it more and more. "
+        "text": "I started to learn Python because I need it in some classes at UBB but... they don't teach us Python explicitly. As I dive deeper into it I love it more and more. I know: \n - use the most usual functions like map, filter, zip \n - the different data types \n - how to use list comprehensions \n - file handling \n - multithreading"
     },
     {
         "title" : "JavaScript and Web Development",
