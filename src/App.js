@@ -58,8 +58,8 @@ class App extends Component {
         
         <Navigation className = {this.state}/> 
         <Header props = {this.state}/>
+        <About/>        
         <CS languages = {csCardsText}/>
-        <About/>
         <Contact/>
         
       </div>
