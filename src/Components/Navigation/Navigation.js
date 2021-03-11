@@ -52,7 +52,7 @@ const Navigation = ({className})  =>{
 					  <a  href="https://drive.google.com/file/d/1aBbCZenHxx2xVJ3VU7AgcJLR75WRdqbe/view?usp=sharing" target="_blank" rel='noreferrer'>CV</a>
 				  	</li>
 					<li className="nav-item">
-					  <a  href="https://drive.google.com/file/d/1l6-FxEjOSfKcTZ2tXjYIz3-Yys8MLErh/view?usp=sharing" target="_blank" rel='noreferrer'>Resume</a>
+					  <a  href="https://drive.google.com/file/d/1XAKyMbPYZsjC6ZaQB5yRZIJsjEZe9LxY/view?usp=sharing" target="_blank" rel='noreferrer'>Resume</a>
 				  	</li>
 				  	<Link
 						className="nav-item"
